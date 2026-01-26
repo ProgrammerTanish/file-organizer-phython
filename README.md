@@ -49,7 +49,7 @@ Cluttered folders can slow down work and make finding files frustrating. This sc
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/file-organizer-python.git
+git clone https://github.com/ProgrammerTanish/file-organizer-python.git
 ```
 3.Navigate into the project directory:
 
