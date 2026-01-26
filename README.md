@@ -59,7 +59,7 @@ cd file-organizer-python
 
 (No external dependencies are required.)
 
-##Usage
+## Usage
 
 You can run the script from the command line (CLI) as follows:
 ```
@@ -77,7 +77,7 @@ python organizer.py ../Downloads
 ```
 After running, check your folder: files will be neatly organized, and a log file will track all actions.
 
-##Example
+## Example
 Before running the script:
 
 Downloads/
@@ -93,6 +93,6 @@ Downloads/
 - Music/song.mp3
 - Documents/doc.pdf
 - log.txt
-#License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
