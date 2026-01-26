@@ -13,7 +13,6 @@ A Python tool that automatically organizes files into folders by type, with logg
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
-- [Skills Demonstrated](#skills-demonstrated)
 - [License](#license)
 
 ---
