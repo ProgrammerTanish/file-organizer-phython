@@ -1,6 +1,5 @@
 # File Organizer Python
 
-**💼 Hire me: I build practical Python automation tools to save time and solve real problems.**
 
 A Python tool that automatically organizes files into folders by type, with logging, safety checks, and support for both relative and absolute paths—perfect for automating file management efficiently.
 
